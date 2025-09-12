@@ -5,7 +5,7 @@ import "fmt"
 //func main() {
 	// 宣言パターン
 	var a int = 10 // 明示的に型を付ける
-	)b := 20        // 短縮宣言（関数内のみ）
+	))b := 20        // 短縮宣言（関数内のみ）
 	var s string = "hello"
 	var flag bool       // bool のゼロ値は false
 	const Pi = 3.141592 // 定数
